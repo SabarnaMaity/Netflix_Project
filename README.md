@@ -9,4 +9,5 @@ Responsive design, suitable for various screen sizes.
 Carousel/slider for showcasing featured movies or series.
 Navigation bar with hover effects and dropdown menus.
 Footer with social media links.
+![Uploading Screenshot (41).png…]()
 
